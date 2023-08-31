@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Heart Rate Poc</string>
+    <string name="default_text">--</string>
+</resources>
